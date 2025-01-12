@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+main {
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
@@ -24,7 +24,6 @@ body {
     align-items: center
 }
 
-
 .icon {
     padding: ;
     width: 40%;
@@ -43,8 +42,7 @@ body {
 }
 
 .hero-container {
-    margin-top: 60px;
-    
+    margin-top: 60px;    
 }
 
 .hero-btn {
@@ -83,9 +81,6 @@ p {
     padding: 20px;
     z-index:;
     text-align: ;
-    height: 150px;
-    width: 350px;
-
 }
 
 h4 {
@@ -98,13 +93,8 @@ h4 {
     padding: 10px;
     margin: 1.5rem;
     height: 320px;
-    width: 350px;
-    
+    width: 350px;   
 }
-
-
-
-
 
 .box img {
     padding-top: 20px;
@@ -121,6 +111,7 @@ p {
 footer {
     background-color: #13183f;
     padding: 1rem;
+    
 }
 
 .footer-nav {
@@ -159,6 +150,7 @@ footer {
     .hero {
         display: flex;
     }
+
 
     .boxes {
         display: flex;
