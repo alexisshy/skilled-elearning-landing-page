@@ -111,14 +111,12 @@ p {
 footer {
     background-color: #13183f;
     padding: 1rem;
-    
 }
 
 .footer-nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
 }
 
 .footer-btn{
@@ -150,8 +148,7 @@ footer {
     .hero {
         display: flex;
     }
-
-
+    
     .boxes {
         display: flex;
         flex-wrap: wrap;
